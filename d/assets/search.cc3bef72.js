@@ -1,0 +1,1 @@
+import{_ as s,o as c,c as o,F as d,p as n,g as p,e as a}from"./index.d5aab7aa.js";const _={},t=e=>(n("data-v-7c4f1ad5"),e=e(),p(),e),r=t(()=>a("span",null,"search",-1)),i=t(()=>a("input",{type:"text"},null,-1));function l(e,f){return c(),o(d,null,[r,i],64)}var h=s(_,[["render",l],["__scopeId","data-v-7c4f1ad5"]]);export{h as default};

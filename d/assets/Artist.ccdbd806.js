@@ -1,0 +1,1 @@
+import{_ as r,o as c,c as n,e as a,t as i}from"./index.d5aab7aa.js";const l={name:"artist",methods:{goBack(){this.$router.go(-1)}}},d={class:"text-light"};function p(o,t,u,_,k,e){return c(),n("div",null,[a("h1",d,i(o.$route.params.id),1),a("button",{onClick:t[0]||(t[0]=(...s)=>e.goBack&&e.goBack(...s))}," Back ")])}var B=r(l,[["render",p]]);export{B as default};
